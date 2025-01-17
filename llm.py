@@ -2,7 +2,7 @@ from openai import OpenAI
 import requests
 from bs4 import BeautifulSoup
 
-client = OpenAI(api_key="sk-034f691470e54faa967975a88c7e1fd1", base_url="https://api.deepseek.com")
+client = OpenAI(api_key="sk-xxxx", base_url="https://api.deepseek.com")
 
 # # Summary Part:
 # summaryContent = ''
